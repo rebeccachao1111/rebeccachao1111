@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rebeccachao1111
+- 👋 Hi, I’m Rebecca.
 - 👀 I’m interested in web development and software engineering.
 - 🌱 I’m currently learning Javascript right after learning html and css.
 - 💞️ I’m looking to collaborate on open source and interesting projects
